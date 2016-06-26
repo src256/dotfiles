@@ -1,0 +1,7 @@
+[user]
+	name = src
+	email = src@srcw.net
+
+[credential]
+	helper = osxkeychain
+
