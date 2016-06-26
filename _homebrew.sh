@@ -10,3 +10,5 @@ brew install ruby
 brew install tmux
 brew install peco
 brew install ag
+brew install rmtrash
+
